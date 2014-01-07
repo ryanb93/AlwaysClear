@@ -1,0 +1,9 @@
+Package: com.ryanburke.alwaysclear
+Name: AlwaysClear
+Depends: firmware (>=7.0), mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Instant access to the ‘Clear’ button in the Notification Center. Supports ARMV7/S AND ARM64.
+Maintainer: Ryan Burke
+Author: Ryan Burke
+Section: Tweaks
